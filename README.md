@@ -21,7 +21,7 @@ npm install
 
 ## Configuración del Entorno
 
-Copia el archivo `.env.example` a `.env` y configura las variables de entorno según las necesidades de tu proyecto:
+Copia el archivo `.env.example` a `.env` 
 
 cp .env.example .env
 
