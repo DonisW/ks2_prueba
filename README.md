@@ -9,7 +9,7 @@ Asegúrate de tener instalado PHP y Composer en tu sistema para poder ejecutar e
 ## Clonar el Repositorio
 
 Para obtener una copia del proyecto en tu máquina local, ejecuta el siguiente comando en tu terminal:
-git clone https://github.com/DonisW/ks2_prueba
+git clone https://github.com/DonisW/ks2_prueba.git
 
 ## Instalación
 
@@ -24,3 +24,9 @@ npm install
 Copia el archivo `.env.example` a `.env` y configura las variables de entorno según las necesidades de tu proyecto:
 
 cp .env.example .env
+
+## Levantar sevidores
+
+php artisan serve
+
+npm run dev
